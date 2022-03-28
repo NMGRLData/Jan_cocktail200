@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 0.0004449321173572848,
+        "error": 3.735772365639214e-05,
         "error_type": "",
-        "fit": "Average_SD",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "omit",
@@ -116,10 +116,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.002708321370497982
+        "value": 0.002452132306858253
     },
     "Ar37": {
-        "error": 0.0021142129719007017,
+        "error": 0.0097549637964269,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -238,7 +238,7 @@
         "value": 0.03505237178925939
     },
     "Ar38": {
-        "error": 0.0010564849344034811,
+        "error": 0.004871228133902489,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -357,7 +357,7 @@
         "value": 0.013153672943123236
     },
     "Ar39": {
-        "error": 0.00329829000893186,
+        "error": 0.013759040879273637,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -478,7 +478,7 @@
     "Ar40": {
         "error": 0.03561956575698365,
         "error_type": "",
-        "fit": "Average_SD",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "omit",
@@ -592,7 +592,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.12442374021873773
+        "value": 0.12417490626714668
     },
     "Ar41": {
         "error": 0.0027099028105993872,
